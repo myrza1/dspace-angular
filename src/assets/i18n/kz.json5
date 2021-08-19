@@ -1588,8 +1588,7 @@
   "collection.page.handle": "Permanent URI for this collection",
   
   // "collection.page.license": "License",
-  // TODO New key - Add a translation
-  "collection.page.license": "License",
+  "collection.page.license": "Лицензиясы",
   
   // "collection.page.news": "News",
   "collection.page.news": "Жаңалықтар",
@@ -1605,8 +1604,7 @@
   "collection.select.empty": "No collections to show",
   
   // "collection.select.table.title": "Title",
-  // TODO New key - Add a translation
-  "collection.select.table.title": "Title",
+  "collection.select.table.title": "Атауы",
   
   
   
@@ -1635,8 +1633,7 @@
   
   
   // "community.create.head": "Create a Community",
-  // TODO New key - Add a translation
-  "community.create.head": "Create a Community",
+  "community.create.head": "Біріккен ұйым құру",
   
   // "community.create.notifications.success": "Successfully created the Community",
   // TODO New key - Add a translation
@@ -1744,8 +1741,7 @@
   "community.edit.tabs.curate.title": "Community Edit - Curate",
   
   // "community.edit.tabs.metadata.head": "Edit Metadata",
-  // TODO New key - Add a translation
-  "community.edit.tabs.metadata.head": "Edit Metadata",
+  "community.edit.tabs.metadata.head": "Метаақпаратты өзгерту",
   
   // "community.edit.tabs.metadata.title": "Community Edit - Metadata",
   // TODO New key - Add a translation
@@ -1780,8 +1776,7 @@
   "comcol-role.edit.no-group": "None",
   
   // "comcol-role.edit.create": "Create",
-  // TODO New key - Add a translation
-  "comcol-role.edit.create": "Create",
+  "comcol-role.edit.create": "Құру",
   
   // "comcol-role.edit.restrict": "Restrict",
   // TODO New key - Add a translation
@@ -1864,8 +1859,7 @@
   
   
   // "comcol-role.edit.reviewer.name": "Reviewers",
-  // TODO New key - Add a translation
-  "comcol-role.edit.reviewer.name": "Reviewers",
+  "comcol-role.edit.reviewer.name": "Көрушілер",
   
   // "comcol-role.edit.reviewer.description": "Reviewers are able to accept or reject incoming submissions. However, they are not able to edit the submission's metadata.",
   // TODO New key - Add a translation
@@ -1894,8 +1888,7 @@
   "community.form.tableofcontents": "News (HTML)",
   
   // "community.form.title": "Name",
-  // TODO New key - Add a translation
-  "community.form.title": "Name",
+  "community.form.title": "Атауы",
   
   // "community.page.edit": "Edit this community",
   // TODO New key - Add a translation
@@ -1910,8 +1903,7 @@
   "community.page.license": "License",
   
   // "community.page.news": "News",
-  // TODO New key - Add a translation
-  "community.page.news": "News",
+  "community.page.news": "Жаңалықтар",
   
   // "community.all-lists.head": "Subcommunities and Collections",
   // TODO New key - Add a translation
@@ -6736,8 +6728,7 @@
   "workflow-item.send-back.button.cancel": "Алып тастау",
   
   // "workflow-item.send-back.button.confirm": "Send back"
-  // TODO New key - Add a translation
-  "workflow-item.send-back.button.confirm": "Send back"
+  "workflow-item.send-back.button.confirm": "Артқа қайту"
   
 
 }
